@@ -1,7 +1,7 @@
 # Login Authentication
 ## login using username and password 
 
-This is a simple username password based login system which uses bcrypt to encrypt password in the backend and use Sql as database 
+This is a simple username password based login system using spring boot which uses bcrypt to encrypt password in the backend and use Sql as database 
 
 
 ## Features
